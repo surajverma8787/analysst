@@ -1,0 +1,8 @@
+.navbar {
+  background-color: brown;
+  font-size: larger;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding-left: 600px;
+}
